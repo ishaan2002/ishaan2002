@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 🔭 I’m currently working on<br>Responsive Web Projects & Personal Portfolio Website<br><br>👯 I’m looking to collaborate on<br>Frontend Development Projects & Open Source Contributions<br><br>🤝 I’m looking for help with<br>React.js, Node.js & Full Stack Development<br><br>🌱 I’m currently learning<br>React.js • Node.js • Advanced JavaScript<br><br>💬 Ask me about<br>HTML • CSS • JavaScript • Bootstrap • Responsive Design<br><br>⚡ Fun fact<br>I love turning creative UI ideas into real, responsive websites 🚀<br><br>
 
 
