@@ -14,15 +14,17 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-- HTML, CSS, JavaScript  
-- Java, C++  
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp" />
 
-### ⚙️ Currently Learning
-- React.js  
-- Node.js  
-- Express.js  
-- MongoDB  
+</p>
+
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+</p>
 
 ---
 
