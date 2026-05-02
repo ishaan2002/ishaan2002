@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ishaan</h1>
+<h3 align="center">MCA Student | Aspiring Full Stack Developer (MERN + GenAI)</h3>
 
-<!--
-**ishaan2002/ishaan2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 MCA Student @ IGNOU  
+- 💻 Learning Full Stack Development (MERN Stack)  
+- 📚 Currently focusing on **JavaScript, DSA & Backend**  
+- 🎯 Goal: Become job-ready developer in **6–12 months**  
+- 🧠 Also preparing for: **UPSC | SSC | Banking | Railway**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- HTML, CSS, JavaScript  
+- Java, C++  
+
+### ⚙️ Currently Learning
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+---
+
+## 📌 Projects
+🚧 Projects coming soon... (building real-world applications)
+
+---
+
+## 🎯 Current Focus
+- Improve JavaScript fundamentals  
+- Practice DSA daily  
+- Build 3 strong projects  
+- Stay consistent  
+
+---
+
+## ⚡ Mindset
+> Discipline > Motivation  
+
+---
+
+## 📫 Connect With Me
+- 📷 Instagram: https://www.instagram.com/ig.ishaan.12  
+- 👍 Facebook: https://www.facebook.com/share/14dTCDoGGv1/  
+- 💼 LinkedIn: https://www.linkedin.com/in/ishaan-srivastava-1a860722a  
+
+---
+
+⭐ From Ishaan
