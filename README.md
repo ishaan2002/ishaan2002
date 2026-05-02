@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ishaan</h1>
 <h3 align="center">MCA Student | Aspiring Full Stack Developer (MERN + GenAI)</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishaan2002&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Goal-Job%20Ready%20Developer-green" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -29,7 +39,40 @@
 ---
 
 ## 📌 Projects
-🚧 Projects coming soon... (building real-world applications)
+
+### 🔹 Online Book Store Website  
+🛠️ Tech: HTML, CSS, JavaScript  
+
+- Clean UI for browsing books  
+- Organized product layout  
+- Fully responsive design  
+
+🔗 Live: https://ishaan2002.github.io/online-book-store/  
+🔗 Code: https://github.com/ishaan2002/online-book-store  
+
+---
+
+### 🔹 Online Solar System Website  
+🛠️ Tech: HTML, CSS, JavaScript  
+
+- Interactive solar system concept  
+- Informational + visual design  
+- Smooth user experience  
+
+🔗 Live: https://ishaan2002.github.io/solar-system-website/  
+🔗 Code: https://github.com/ishaan2002/solar-system-website  
+
+---
+
+### 🔹 Portfolio Website  
+🛠️ Tech: HTML, CSS, JavaScript  
+
+- Personal portfolio with clean UI  
+- Responsive across devices  
+- Showcases projects and skills  
+
+🔗 Live: https://ishaan2002.github.io/ishaan-portfolio/  
+🔗 Code: https://github.com/ishaan2002/ishaan-portfolio  
 
 ---
 
