@@ -44,8 +44,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,10 +61,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan2002&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
 ## 📫 Connect With Me
-- 📷 Instagram: https://www.instagram.com/ig.ishaan.12  
-- 👍 Facebook: https://www.facebook.com/share/14dTCDoGGv1/  
-- 💼 LinkedIn: https://www.linkedin.com/in/ishaan-srivastava-1a860722a  
+<p align="left">
+<a href="https://www.instagram.com/ig.ishaan.12" target="_blank">Instagram</a> |
+<a href="https://www.facebook.com/share/14dTCDoGGv1/" target="_blank">Facebook</a> |
+<a href="https://www.linkedin.com/in/ishaan-srivastava-1a860722a" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
