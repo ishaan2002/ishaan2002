@@ -44,6 +44,25 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaan2002&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2002&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan2002&layout=compact&theme=tokyonight" />
+</p>
 ## 📫 Connect With Me
 - 📷 Instagram: https://www.instagram.com/ig.ishaan.12  
 - 👍 Facebook: https://www.facebook.com/share/14dTCDoGGv1/  
