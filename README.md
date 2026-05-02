@@ -22,8 +22,6 @@
 
 ---
 
----
-
 ## 💼 Open to Opportunities
 
 I am actively looking for:
@@ -104,10 +102,11 @@ I am actively looking for:
 ---
 
 ## ⚡ Mindset
-> Discipline > Motivation  
 
----
-
+- Build > Watch  
+- Consistency > Perfection  
+- Practice > Theory  
+- Progress > Excuses  
 ---
 
 ## 📊 GitHub Stats
@@ -119,6 +118,7 @@ I am actively looking for:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ishaan2002&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 📈 Most Used Languages
